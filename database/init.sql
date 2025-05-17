@@ -1,0 +1,1 @@
+CREATE DATABASE internship_db;

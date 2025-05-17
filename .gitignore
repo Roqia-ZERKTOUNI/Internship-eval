@@ -1,0 +1,18 @@
+# Java / Spring Boot
+/backend/target
+/backend/.mvn
+/backend/.idea
+
+# Node.js / React / Angular
+/frontend/node_modules
+/frontend/dist
+/frontend/build
+
+# IDE
+*.iml
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
